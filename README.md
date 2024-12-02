@@ -5,11 +5,11 @@ A passionate data scientist from San Diego!
 
 - 🔭 I’m currently working on **Customer Churn prediction**
 
-- 🌱 I’m currently learning **Machine Learning for text (BERT model)**
+- 🌱 I’m currently learning **Machine Learning for text NLP(BERT model)**
 
 - 👯 I’m looking to collaborate on **Computer Vision**
 
-- 🤝 I’m looking for help with **ML for text**
+- 🤝 I’m looking for help with **NLP and NLTK**
 
 - 📫 How to reach me **avakilov@ucsd.edu**
 
